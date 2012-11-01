@@ -39,7 +39,7 @@ class Suid
     /**
      * Suid::decode()
      *
-     * Decodes a Short Universally Unique Identifier into an Integer
+     * Decodes a Short Unique Identifier into an Integer
      *
      * @param string $suid
      * @return int $id
